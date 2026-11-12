@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Personhood for AI Entities: Fragmentation, Correlation, and Capital (code)"
+authors:
+  - family-names: Zucca
+    given-names: Claudio
+    affiliation: "European Investment Bank and Luxembourg School of Business"
+version: "1.0"
+date-released: 2026-11-12
+license: MIT
